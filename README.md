@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiegomottadev)](https://www.instagram.com/lakshman_gope/)
 [![🚀 A challenge? Contact me 👨‍💻](https://img.shields.io/badge/🚀%20A%20challenge%3F%20Contact%20me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue?logo=google-forms&logoColor=white)](https://docs.google.com/forms/d/1fv3ikXJz9HDjEzX0c5KW1SkoLyyY1nrbB4Ma5IQ5vMo/edit)
 
-Hi there 👋, my name is Diego. I am a self-taught, passionate and fast-learning full-stack developer.   
-From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓. I love working with new technologies and developing web applications 🔭. Currently, I am learning and improving my skills in web development with Node.js, React.js, and TypeScript 🌱. I have been working as a Fullstack PHP Developer for 9 years 🚀
+Hi there 👋, my name is Diego. I am a self-taught, passionate and fast-learning full-stack developer. From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓. I love working with new technologies and developing web applications 🔭. Currently, I am learning and improving my skills in web development with Node.js, React.js, and TypeScript 🌱. I have been working as a Fullstack PHP Developer for 9 years 🚀
 
 - 🔭 I’m currently working on Grupo Lafken (https://grupolafken.com/) for three years as a Fullstack Laravel/PHP Developer 
 - 🌱 I’m currently learning Node.js, Express.js, React.js and TypeScript
@@ -32,4 +31,9 @@ From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I practice trail running. Do you know about this sport?
 
-<img src="https://github-readme-stats.vercel.app/api/?username=diegomottadev&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
+<!--Estadísticas de GitHub-->
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/?username=diegomottadev&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomottadev&layout=compact" height="150" />
+</div>
+
