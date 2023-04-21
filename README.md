@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Diego Motta | Fullstack Web Developer 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/diegoivanmotta/)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiegomottadev)](https://www.instagram.com/lakshman_gope/)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiegomottadev)](https://www.twitter.com/diegomottadev/)
 [![🚀 A challenge? Contact me 👨‍💻](https://img.shields.io/badge/🚀%20A%20challenge%3F%20Contact%20me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue?logo=google-forms&logoColor=white)](https://docs.google.com/forms/d/1fv3ikXJz9HDjEzX0c5KW1SkoLyyY1nrbB4Ma5IQ5vMo/edit)
 
 Hi there 👋, my name is Diego. I am a self-taught, passionate and fast-learning full-stack developer. From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓. I love working with new technologies and developing web applications 🔭. Currently, I am learning and improving my skills in web development with Node.js, React.js, and TypeScript 🌱. I have been working as a Fullstack PHP Developer for 9 years 🚀
