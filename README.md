@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 Hi there 👋, my name is Diego. I am a self-taught, passionate and fast-learning full-stack developer. From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓. I love working with new technologies and developing web applications 🔭. Currently, I am learning and improving my skills in web development with Node.js, React.js, and TypeScript 🌱. I have been working as a Fullstack PHP Developer for 9 years 🚀
 
 - 🔭 I’m currently working on Grupo Lafken [https://grupolafken.com/] for three years as a Fullstack Laravel/PHP Developer 
-- 🚀 Outside of my full-time job, I am a co-founder and software developer at Club Pedidos [https://clubpedidos.com]. I am responsible for building and          developing software solutions that enable our business to succeed.
 - 🌱 I’m currently learning Node.js, Express.js, React.js and TypeScript
 - 💬 Ask me about #PHP #ReactJS #NodeJS #Javascript
 - 😄 Pronouns: he/him
