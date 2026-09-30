@@ -37,9 +37,7 @@ I've spent 10+ years building and maintaining web apps that companies run on eve
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I run trails (Misiones red dirt included).
 
-<!--Estadísticas de GitHub-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=diegomottadev&show_icons=true&title_color=454441&icon_color=79ff97&text_color=454441&bg_color=dedcd7" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomottadev&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomottadev&layout=compact&title_color=454441&text_color=454441&bg_color=dedcd7" height="150" />
 </p>
-
