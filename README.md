@@ -16,24 +16,30 @@ Here are some ideas to get you started:
 
 
 <a target="_blank" href="https://lakshmandev.netlify.app/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
-
-# Diego Motta | Fullstack Web Developer 
+# Diego Motta | Senior Fullstack Engineer
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/diegoivanmotta/)
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiegomottadev)](https://www.twitter.com/diegomottadev/)
-[![🚀 A challenge? Contact me 👨‍💻](https://img.shields.io/badge/🚀%20A%20challenge%3F%20Contact%20me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue?logo=google-forms&logoColor=white)](https://docs.google.com/forms/d/1fv3ikXJz9HDjEzX0c5KW1SkoLyyY1nrbB4Ma5IQ5vMo/edit)
+[![Email](https://img.shields.io/badge/diegomottadev@gmail.com-blue?logo=gmail&logoColor=white)](mailto:diegomottadev@gmail.com)
 
-Hi there 👋, my name is Diego. I am a self-taught, passionate and fast-learning full-stack developer. From Argentina 🇦🇷 🌎. I have a degree in Information Systems 👨‍🎓. I love working with new technologies and developing web applications 🔭. Currently, I am learning and improving my skills in web development with Node.js, React.js, and TypeScript 🌱. I have been working as a Fullstack PHP Developer for more than 10 years.🚀
+Hi 👋, I'm Diego, a fullstack developer from Misiones, Argentina 🇦🇷.
 
-- 🔭 specialize in PHP, Laravel, Vue.js, Angular, system integration, and maintenance.. 
-- 🌱 I’m currently learning Node.js, Express.js, React.js and TypeScript
-- 💬 Ask me about #PHP #ReactJS #NodeJS #Javascript
+I've spent 10+ years building and maintaining web apps that companies run on every day. My favorite work is stepping into an existing product, figuring out why it breaks, and making it better while it stays live.
+
+![Stack](https://skillicons.dev/icons?i=php,laravel,vue,nodejs,ts,mysql,postgres,redis,docker)
+
+- 🔭 I work with PHP, Laravel & Vue.js, building RESTful APIs and third-party integrations.
+- 🏥 I've shipped software for healthtech, edtech, HRTech, tourism and media.
+- 🤖 I use Claude Code and Cursor every day, and I'm going deeper into agentic AI and MCP with AI4Devs (LIDR).
+- 🎓 Degree in Information Systems (UNaM). Electronics technician before that.
+- 💼 Open to senior remote roles and integration projects.
+- 💬 Ask me about Laravel, legacy code, WhatsApp bots in production, Claude Code & IA Workflows.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I practice trail running. 
+- ⚡ Fun fact: I run trails (Misiones red dirt included).
 
 <!--Estadísticas de GitHub-->
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=diegomottadev&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomottadev&layout=compact" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=diegomottadev&show_icons=true&title_color=454441&icon_color=79ff97&text_color=454441&bg_color=dedcd7" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomottadev&layout=compact" height="150" />
+</p>
 
