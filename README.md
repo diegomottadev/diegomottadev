@@ -32,6 +32,6 @@ I've spent 10+ years building and maintaining web apps that companies run on eve
 - 🤖 I use Claude Code and Cursor every day, and I'm going deeper into agentic AI and MCP with AI4Devs (LIDR).
 - 🎓 Degree in Information Systems (UNaM). Electronics technician before that.
 - 💼 Open to senior remote roles and integration projects.
-- 💬 Ask me about Laravel, legacy code, WhatsApp bots in production, Claude Code & IA Workflows.
+- 💬 Ask me about Laravel, legacy code, WhatsApp bots in production, Claude Code & AI workflows.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I run trails (Misiones red dirt included).
