@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoivanmotta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoivanmotta/)
 [![X](https://img.shields.io/badge/X-@diegomottadev-000000?logo=x&logoColor=white)](https://x.com/diegomottadev)
 [![Email](https://img.shields.io/badge/diegomottadev@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:diegomottadev@gmail.com)
+
 Hi 👋, I'm Diego, a fullstack developer from Misiones, Argentina 🇦🇷.
 
 I've spent 10+ years building and maintaining web apps that companies run on every day. My favorite work is stepping into an existing product, figuring out why it breaks, and making it better while it stays live.
