@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://lakshmandev.netlify.app/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 # Diego Motta | Senior Fullstack Engineer
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/diegoivanmotta/)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiegomottadev)](https://www.twitter.com/diegomottadev/)
-[![Email](https://img.shields.io/badge/diegomottadev@gmail.com-blue?logo=gmail&logoColor=white)](mailto:diegomottadev@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoivanmotta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoivanmotta/)
+[![X](https://img.shields.io/badge/X-@diegomottadev-000000?logo=x&logoColor=white)](https://x.com/diegomottadev)
+[![Email](https://img.shields.io/badge/diegomottadev@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:diegomottadev@gmail.com)
 Hi 👋, I'm Diego, a fullstack developer from Misiones, Argentina 🇦🇷.
 
 I've spent 10+ years building and maintaining web apps that companies run on every day. My favorite work is stepping into an existing product, figuring out why it breaks, and making it better while it stays live.
