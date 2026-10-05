@@ -12,7 +12,14 @@ I've spent **10+ years** architecting, building, and scaling web applications th
 
 ---
 
-## 🚀 Featured Projects & Modernization Showcase
+## 🛠️ Production Systems & AI Tooling
+
+- **[AgendaLlena](https://github.com/diegomottadev/agendallena):** Automated scheduling and booking bot integrated with the WhatsApp Cloud API.
+- **[Workflow Agent](https://github.com/diegomottadev/workflow-agent):** Stack-agnostic CLI tooling for agentic AI and developer workflow automation.
+
+---
+
+## 🚀 Modernization Showcase & Frontend Architecture
 
 I recently revisited several early React and React Native projects to demonstrate **production-grade refactoring**: upgrading legacy tooling, resolving 100% of audit vulnerabilities, implementing clean state management, and introducing comprehensive automated test suites.
 
@@ -21,10 +28,6 @@ I recently revisited several early React and React Native projects to demonstrat
 | **[Weather App](https://github.com/diegomottadev/whetherapp-react)** | **React 16.14 + Redux Toolkit 2 + Vite 8 + Vitest**<br>• Complete rewrite of legacy CRA to Vite 8 (0 audit vulnerabilities, sub-second builds).<br>• Redux Toolkit state slice with async thunks, request deduplication by `requestId`, and cancellation.<br>• 64 unit & integration tests with Vitest and React Testing Library.<br>• Includes an [Interactive Redux Walkthrough](https://diegomottadev.github.io/whetherapp-react/explanation-redux/) in English & Spanish. | [View App](https://diegomottadev.github.io/whetherapp-react/) |
 | **[Repository Rate App](https://github.com/diegomottadev/repository-rate-app)** | **React Native (Expo SDK 57) + React 19 + React Native Web**<br>• Single codebase running universally on iOS, Android, and Web.<br>• Strict design token system with dynamic light/dark mode and responsive layouts.<br>• Formik + Yup validation, Jest 29 test suite, and full accessibility (a11y focus rings, reduced motion). | [View Demo](https://diegomottadev.github.io/repository-rate-app/) |
 | **[HN Search](https://github.com/diegomottadev/hackersnew-react)** | **React + Algolia API + Vite 8 + Vitest**<br>• Hacker News client with client-side query caching and bidirectional URL state syncing (`?q=&sort=`).<br>• Higher-Order Components (HOCs) for composable UI states.<br>• Fully responsive cards layout with OKLCH colors and dark mode. | [View App](https://diegomottadev.github.io/hackersnew-react/) |
-
-### 🛠️ More Production Work
-- **[AgendaLlena](https://github.com/diegomottadev/agendallena):** Automated scheduling and booking bot integrated with the WhatsApp Cloud API.
-- **[Workflow Agent](https://github.com/diegomottadev/workflow-agent):** Stack-agnostic CLI tooling for agentic AI and developer workflow automation.
 
 ---
 
