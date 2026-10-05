@@ -34,6 +34,8 @@ Born during the COVID-19 pandemic to bridge the gap between local businesses and
 
 I recently revisited several early React and React Native projects to demonstrate **production-grade refactoring**: upgrading legacy tooling, resolving 100% of audit vulnerabilities, implementing clean state management, and introducing comprehensive automated test suites.
 
+If you're interested in exploring or extending these codebases, each repository includes a curated checklist of **"Things you can build next"** with architectural ideas and suggested features to continue learning.
+
 | Project | What it demonstrates | Live Demo |
 | :--- | :--- | :---: |
 | **[Burger Builder](https://github.com/diegomottadev/delivery-burguer-app)** | **React 16 + Webpack + CSS Modules**<br>• Interactive burger customizer with real-time dynamic pricing calculation.<br>• Component-driven UI with modal checkout flow and order summary.<br>• Deployed live on GitHub Pages. | [View App](https://diegomottadev.github.io/delivery-burguer-app/) |
