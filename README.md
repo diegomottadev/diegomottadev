@@ -30,6 +30,15 @@ Born during the COVID-19 pandemic to bridge the gap between local businesses and
 
 ---
 
+## 🎯 Technical Challenges (Hiring Success Cases)
+
+Practical code challenges completed during selection processes that resulted in successful job offers:
+
+- **[Beeping](https://github.com/diegomottadev/beeping):** Backend order processing and calculation system built with **Laravel, Redis, Laravel Horizon, and Docker**. Features asynchronous queue jobs, scheduled Artisan commands (`schedule:run`), and automated controller tests.
+- **[Memo Test](https://github.com/diegomottadev/memo-test):** Fullstack memory card game built with **React (Vite) and Apollo Client**, powered by a decoupled [Laravel GraphQL API](https://github.com/diegomottadev/api-memo-test) (Lighthouse, MySQL, Docker) managing game logic and session states.
+
+---
+
 ## 🚀 Modernization Showcase & Frontend Architecture
 
 I recently revisited several early React and React Native projects to demonstrate **production-grade refactoring**: upgrading legacy tooling, resolving 100% of audit vulnerabilities, implementing clean state management, and introducing comprehensive automated test suites.
