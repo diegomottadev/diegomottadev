@@ -12,6 +12,17 @@ I've spent **10+ years** architecting, building, and scaling web applications th
 
 ---
 
+## 🏆 Featured Project: [Atiende](https://github.com/diegomottadev/atiende) — WhatsApp Commerce & Multi-Tenant SaaS
+
+Born during the COVID-19 pandemic to bridge the gap between local businesses and locked-down households, **Atiende** represents my two most formative and productive years as an engineer. Co-founded with [Leandro Zacaria](https://www.linkedin.com/in/leandro-zacaria/), I took full ownership across the entire product lifecycle — from direct client discovery with shop owners to architectural decisions, multi-tenant engineering, automated testing, and live production operations.
+
+- **Automated WhatsApp Commerce:** 24/7 ordering, customer service, and inquiry bot built on WhatsApp Cloud API, automating intake, sales routing, and instant PDF receipts.
+- **Multi-Tenant Architecture:** Isolated database per tenant, centralized provisioning platform (`app-tenants`), real-time management dashboard, and payment webhooks (MercadoPago & Stripe).
+- **End-to-End Impact:** Grew from an emergency pandemic tool into a comprehensive customer service and sales channel handling thousands of orders across multiple business verticals.
+- **AI & Spec-Driven Playground:** Maintained post-production as a testbed for spec-driven engineering, automated runbooks, and legacy refactoring using Claude Code.
+
+---
+
 ## 🛠️ Production Systems & AI Tooling
 
 - **[AgendaLlena](https://github.com/diegomottadev/agendallena):** Automated scheduling and booking bot integrated with the WhatsApp Cloud API.
@@ -25,6 +36,7 @@ I recently revisited several early React and React Native projects to demonstrat
 
 | Project | What it demonstrates | Live Demo |
 | :--- | :--- | :---: |
+| **[Burger Builder](https://github.com/diegomottadev/delivery-burguer-app)** | **React 16 + Webpack + CSS Modules**<br>• Interactive burger customizer with real-time dynamic pricing calculation.<br>• Component-driven UI with modal checkout flow and order summary.<br>• Deployed live on GitHub Pages. | [View App](https://diegomottadev.github.io/delivery-burguer-app/) |
 | **[Weather App](https://github.com/diegomottadev/whetherapp-react)** | **React 16.14 + Redux Toolkit 2 + Vite 8 + Vitest**<br>• Complete rewrite of legacy CRA to Vite 8 (0 audit vulnerabilities, sub-second builds).<br>• Redux Toolkit state slice with async thunks, request deduplication by `requestId`, and cancellation.<br>• 64 unit & integration tests with Vitest and React Testing Library.<br>• Includes an [Interactive Redux Walkthrough](https://diegomottadev.github.io/whetherapp-react/explanation-redux/) in English & Spanish. | [View App](https://diegomottadev.github.io/whetherapp-react/) |
 | **[Repository Rate App](https://github.com/diegomottadev/repository-rate-app)** | **React Native (Expo SDK 57) + React 19 + React Native Web**<br>• Single codebase running universally on iOS, Android, and Web.<br>• Strict design token system with dynamic light/dark mode and responsive layouts.<br>• Formik + Yup validation, Jest 29 test suite, and full accessibility (a11y focus rings, reduced motion). | [View Demo](https://diegomottadev.github.io/repository-rate-app/) |
 | **[HN Search](https://github.com/diegomottadev/hackersnew-react)** | **React + Algolia API + Vite 8 + Vitest**<br>• Hacker News client with client-side query caching and bidirectional URL state syncing (`?q=&sort=`).<br>• Higher-Order Components (HOCs) for composable UI states.<br>• Fully responsive cards layout with OKLCH colors and dark mode. | [View App](https://diegomottadev.github.io/hackersnew-react/) |
